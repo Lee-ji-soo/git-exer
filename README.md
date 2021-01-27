@@ -7,5 +7,5 @@ Country와 함께하는 Git 교실
 
 
 
--fast -foward
+-fast -foward exer / my merge test
 -3way other 

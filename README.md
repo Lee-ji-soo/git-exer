@@ -8,4 +8,5 @@ Country와 함께하는 Git 교실
 
 
 -fast -foward exer / my merge test
+-fast -foward exer / conflict test
 -3way other 
